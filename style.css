@@ -1,0 +1,17 @@
+#escudo{
+width: 90px;
+height: 90px;
+}
+#navbar {
+    background-color:rgb(42, 54, 161);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+}
+
+body{
+    background-color: darkred;
+}
