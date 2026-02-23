@@ -1,3 +1,14 @@
+body{
+
+margin: 0;
+padding: 0;
+background-color: aqua;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
 #escudo{
 width: 90px;
 height: 90px;
@@ -15,3 +26,21 @@ height: 90px;
 body{
     background-color: darkred;
 }
+#notícias{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 6px;
+}
+
+.notícia{
+    background-color: gold;
+    color: black;
+    border: 4px solid white}
+
+    .img_notícia{
+        width: 400px;
+    }
+    footer{
+        color: white;
+    }
