@@ -37,7 +37,12 @@ body{
 .notícia{
     background-color: gold;
     color: black;
-    border: 4px solid white}
+    border: 4px solid white;
+    margin: 10px;
+
+}
+
+
 
     .img_notícia{
         width: 400px;
