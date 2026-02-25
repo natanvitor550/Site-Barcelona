@@ -55,11 +55,21 @@ body{
         z-index: 999999;
     }
 
-    #esclacao{
-        margin: 40px;
-        display: 40px
-       justify-content:space-around;
-        align-itens: center;
-        background-color: blue;
-        
+   #escalacao{
+margin: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(6, 48, 187);
+
+    }
+
+    .jogador{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 52px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
