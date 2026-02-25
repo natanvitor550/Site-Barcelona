@@ -54,3 +54,12 @@ body{
         right: 0px;
         z-index: 999999;
     }
+
+    #esclacao{
+        margin: 40px;
+        display: 40px
+       justify-content:space-around;
+        align-itens: center;
+        background-color: blue;
+        
+    }
