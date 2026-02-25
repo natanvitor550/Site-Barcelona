@@ -45,3 +45,12 @@ body{
     footer{
         color: white;
     }
+
+    #mascote{
+        position: fixed;        
+        width: 200px;
+        height: 200px;
+        bottom: 0px;
+        right: 0px;
+        z-index: 999999;
+    }
